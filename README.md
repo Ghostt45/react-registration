@@ -6,9 +6,10 @@
     
   </summary>  
   <summary>
-
-    npm start
+    
     npm install
+    npm start
+    
     
   </summary>  
    
